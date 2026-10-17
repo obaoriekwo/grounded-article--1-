@@ -1,0 +1,121 @@
+[
+  {
+    "id": "S1",
+    "title": "Transformer Models in Natural Language Processing",
+    "authors": [
+      "Lea Lindberg"
+    ],
+    "year": 2021,
+    "venue": "Bio-QI Journal",
+    "doi": "10.5281/zenodo.19614501",
+    "url": "https://doi.org/10.5281/zenodo.19614501",
+    "abstract": "Transformer architectures have reshaped the field of natural language processing by replacing recurrence-basedsequence modelling with parallelisable self-attention mechanisms that capture long-range dependencies moreeffectively. This study presents a controlled empirical investigation of five transformer variants -- the originalencoder-decoder model, encoder-only (BERT-style), decoder-only (GPT-style), sparse attention, and linear attention --across six standard NLP benchmarks: sentiment analysis (SST-2), natural language inference (MNLI), questionanswering (SQuAD 2.0), named entity recognition (CoNLL-2003), machine translation (WMT-14 En-De), and abstractivesummarisation (CNN/DailyMail). A total of 1,800 experiments were conducted on identical hardware with a fixedhyperparameter search budget to isolate architectural effects from tuning variance. Decoder-only models achieved thehighest performance on generative tasks (BLEU = 28.4 +- 0.6 on WMT-14; ROUGE-L = 41.7 +- 0.8 on CNN/DailyMail)while encoder-only models dominated discriminative benchmarks (F1 = 93.2 +- 0.4 on SST-2; F1 = 92.8 +- 0.3 onCoNLL-2003). Sparse attention variants reduced memory consumption by 58% on long documents (> 2048 tokens) withless than 1.2% accuracy loss, whereas linear attention models achieved comparable speed gains but exhibited moresubstantial quality degradation on tasks requiring precise token-level alignment. Pre-training corpus size was thestrongest predictor of downstream task performance (partial R2 = 0.62), followed by model parameter count (partial R2 =0.24). A practical selection guide mapping NLP task characteristics to recommended transformer configurations isprovided",
+    "origin": "openalex"
+  },
+  {
+    "id": "S2",
+    "title": "Network Intrusion Detection Using Transformer Models and Natural Language Processing for Enhanced Web Application Attack Detection",
+    "authors": [
+      "Wowon Priatna",
+      "Irwan Sembiring",
+      "Adi Setiawan",
+      "Iwan Setyawan"
+    ],
+    "year": 2024,
+    "venue": "Jurnal Nasional Pendidikan Teknik Informatika (JANAPATI)",
+    "doi": "10.23887/janapati.v13i3.82462",
+    "url": "https://doi.org/10.23887/janapati.v13i3.82462",
+    "abstract": "The increasing frequency and complexity of web application attacks necessitate more advanced detection methods. This research explores integrating Transformer models and Natural Language Processing (NLP) techniques to enhance network intrusion detection systems (NIDS). Traditional NIDS often rely on predefined signatures and rules, limiting their effectiveness against new attacks. By leveraging the Transformer's ability to capture long-term dependencies and the contextual richness of NLP, this study aims to develop a more adaptive and intelligent intrusion detection framework. Utilizing the CSIC 2010 dataset, comprehensive preprocessing steps such as tokenization, stemming, lemmatization, and normalization were applied. Techniques like Word2Vec, BERT, and TF-IDF were used for text representation, followed by the application of the Transformer architecture. Performance evaluation using accuracy, precision, recall, F1 score, and AUC demonstrated the superiority of the Transformer-NLP model over traditional machine learning methods. Statistical validation through Friedman and T-tests confirmed the model's robustness and practical significance. Despite promising results, limitations include the dataset's scope, computational complexity, and the need for further research to generalize the model to other types of network attacks. This study indicates significant improvements in detecting complex web application attacks, reducing false positives, and enhancing overall security, making it a viable solution for addressing increasingly sophisticated cybersecurity threats",
+    "origin": "openalex"
+  },
+  {
+    "id": "S3",
+    "title": "Advancements in Natural language Processing: An In-depth Review of Language Transformer Models",
+    "authors": [
+      "Ritesh Kumar Singh"
+    ],
+    "year": 2024,
+    "venue": "International Journal for Research in Applied Science and Engineering Technology",
+    "doi": "10.22214/ijraset.2024.63408",
+    "url": "https://doi.org/10.22214/ijraset.2024.63408",
+    "abstract": "Abstract: This review paper provides a succinct exploration of the history and impact of language transformer models in natural language processing (NLP). Beginning with a literature review, we trace the evolution of key models and elucidate fundamental concepts like self-attention mechanism and positional encoding. A comparative analysis of major transformer models, including BERT, GPT, T5, XLNet, offers insights into their architectures, strengths, and weaknesses. The discussion extends to pretraining objectives, fine-tuning strategies, and evaluation metrics, complemented by real-world examples of successful applications in NLP. We address current challenges, discuss potential future directions, and explore ethical considerations, providing valuable suggestions for researchers and practitioners in the NLP community in our conclusive summary.",
+    "origin": "openalex"
+  },
+  {
+    "id": "S4",
+    "title": "AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing",
+    "authors": [
+      "Katikapalli Subramanyam Kalyan",
+      "Ajit Rajasekharan",
+      "S. Sangeetha"
+    ],
+    "year": 2021,
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2108.05542",
+    "url": "https://doi.org/10.48550/arxiv.2108.05542",
+    "abstract": "Transformer-based pretrained language models (T-PTLMs) have achieved great success in almost every NLP task. The evolution of these models started with GPT and BERT. These models are built on the top of transformers, self-supervised learning and transfer learning. Transformed-based PTLMs learn universal language representations from large volumes of text data using self-supervised learning and transfer this knowledge to downstream tasks. These models provide good background knowledge to downstream tasks which avoids training of downstream models from scratch. In this comprehensive survey paper, we initially give a brief overview of self-supervised learning. Next, we explain various core concepts like pretraining, pretraining methods, pretraining tasks, embeddings and downstream adaptation methods. Next, we present a new taxonomy of T-PTLMs and then give brief overview of various benchmarks including both intrinsic and extrinsic. We present a summary of various useful libraries to work with T-PTLMs. Finally, we highlight some of the future research directions which will further improve these models. We strongly believe that this comprehensive survey paper will serve as a good reference to learn the core concepts as well as to stay updated with the recent happenings in T-PTLMs.",
+    "origin": "openalex"
+  },
+  {
+    "id": "S5",
+    "title": "A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models",
+    "authors": [
+      "Firoj Alam",
+      "Md. Arid Hasan",
+      "Tanvirul Alam",
+      "Khan, Akib",
+      "Tajrin, Janntatul",
+      "Naira Khan",
+      "Shammur Absar Chowdhury"
+    ],
+    "year": 2021,
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2107.03844",
+    "url": "https://doi.org/10.48550/arxiv.2107.03844",
+    "abstract": "Bangla -- ranked as the 6th most widely spoken language across the world (https://www.ethnologue.com/guides/ethnologue200), with 230 million native speakers -- is still considered as a low-resource language in the natural language processing (NLP) community. With three decades of research, Bangla NLP (BNLP) is still lagging behind mainly due to the scarcity of resources and the challenges that come with it. There is sparse work in different areas of BNLP; however, a thorough survey reporting previous work and recent advances is yet to be done. In this study, we first provide a review of Bangla NLP tasks, resources, and tools available to the research community; we benchmark datasets collected from various platforms for nine NLP tasks using current state-of-the-art algorithms (i.e., transformer-based models). We provide comparative results for the studied NLP tasks by comparing monolingual vs. multilingual models of varying sizes. We report our results using both individual and consolidated datasets and provide data splits for future research. We reviewed a total of 108 papers and conducted 175 sets of experiments. Our results show promising performance using transformer-based models while highlighting the trade-off with computational costs. We hope that such a comprehensive survey will motivate the community to build on and further advance the research on Bangla NLP.",
+    "origin": "openalex"
+  },
+  {
+    "id": "S6",
+    "title": "Natural language processing: An overview of models, transformers and applied practices",
+    "authors": [
+      "Santiago Canchila",
+      "Carlos Meneses-Eraso",
+      "Javier Casanoves-Boix",
+      "Pascual Cortés-Pellicer",
+      "Fernando Castelló Sirvent"
+    ],
+    "year": 2024,
+    "venue": "Computer Science and Information Systems",
+    "doi": "10.2298/csis230217031c",
+    "url": "https://doi.org/10.2298/csis230217031c",
+    "abstract": "The study of utilizing human language in computer systems referred to as NLP, is becoming increasingly significant in various aspects of life, including research, daily activities, commerce, and entrepreneurship endeavors. A multitude of tech companies are dedicating resources towards the development and improvement of NLP methods, models, and products. To add to that, open-source contributions to the field are on the rise. However, with so much progress being made, it may be challenging to understand the current state of NLP and what models are considered to be the most efficient. To help those grappling with the fast-paced and constantly evolving NLP landscape, we have put together a comprehensive overview of the latest NLP research and advancements.",
+    "origin": "openalex"
+  },
+  {
+    "id": "S7",
+    "title": "Natural Language Processing Using Transformer-Based Deep Learning Models",
+    "authors": [
+      "Shubham Soni"
+    ],
+    "year": 2025,
+    "venue": "International Journal of Artificial Intelligence, Computer Science, Management and Technology",
+    "doi": null,
+    "url": "https://ijacmt.com/index.php/j/article/view/42",
+    "abstract": "The advent of deep learning models based on transformers has revolutionized natural language processing by changing the way robots comprehend and produce human language. To express long-range dependencies in textual material effectively and enable parallel processing, transformers rely on self-attention mechanisms, unlike typical sequence models. Numerous natural language processing (NLP) tasks have benefited greatly from this architecture change. the function of transformer-based models in NLP, with an emphasis on designs like BERT, GPT, and associated variations. In this study, we look at how attention mechanisms improve scalability, language representation, contextual comprehension, and text production, machine translation, question answering, and categorization. It takes into consideration issues with computational cost, data needs, and the interpretability of the models. When compared to previous neural techniques, transformer-based models are far more accurate and flexible. The study wraps up by highlighting areas for future research that could help in making transformer-based NLP systems more efficient, easier to understand, and more ethical to use in the real world.",
+    "origin": "openalex"
+  },
+  {
+    "id": "S8",
+    "title": "A Review of Transformer-Based Models for Natural Language Processing (NLP)",
+    "authors": [
+      "J. Jayasudha"
+    ],
+    "year": 2025,
+    "venue": "International Journal for Research in Applied Science and Engineering Technology",
+    "doi": "10.22214/ijraset.2025.71832",
+    "url": "https://doi.org/10.22214/ijraset.2025.71832",
+    "abstract": "Abstract: In recent years, Transformer-based architecture has revolutionized the field of Natural Language Processing (NLP), enabling significant advancements across a wide range of tasks such as language modeling, text classification, machine translation, and question answering. This review paper provides a comprehensive overview of the development and evolution of these models, beginning with foundational word embedding techniques and progressing through major transformer architectures such as BERT, RoBERTa, sBERT, MiniLMetc...This paper analyzes core mechanisms such as attention mechanisms, pretraining strategies, and fine-tuning approaches, and highlights how they improve performance compared to traditional NLP models.Additionally, the paper explores recent advancements such as model compression, transfer learning, and multilingual modeling. It also addresses key challenges and future research directions, including model interpretability, computational efficiency, and ethical implications. This review is intended to be a comprehensive resource for researchers and practitioners aiming to understand and apply Transformer-based models in natural language processing.",
+    "origin": "openalex"
+  }
+]

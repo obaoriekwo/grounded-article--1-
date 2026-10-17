@@ -1,0 +1,115 @@
+[
+  {
+    "ref_id": "S6",
+    "title": "Natural language processing: An overview of models, transformers and applied practices",
+    "status": "verified",
+    "matched_title": "Natural language processing: An overview of models, transformers and applied practices",
+    "matched_doi": "10.2298/csis230217031c",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via Crossref DOI"
+  },
+  {
+    "ref_id": "S7",
+    "title": "Natural Language Processing Using Transformer-Based Deep Learning Models",
+    "status": "verified",
+    "matched_title": "Natural Language Processing Using Transformer-Based Deep Learning Models",
+    "matched_doi": "",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "missing",
+      "url": "ok"
+    },
+    "note": "matched via OpenAlex title search"
+  },
+  {
+    "ref_id": "S1",
+    "title": "Transformer Models in Natural Language Processing",
+    "status": "verified",
+    "matched_title": "Transformer Models in Natural Language Processing",
+    "matched_doi": "10.5281/zenodo.19614501",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via OpenAlex DOI"
+  },
+  {
+    "ref_id": "S4",
+    "title": "AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing",
+    "status": "verified",
+    "matched_title": "AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing",
+    "matched_doi": "10.48550/arxiv.2108.05542",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via OpenAlex DOI"
+  },
+  {
+    "ref_id": "S5",
+    "title": "A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models",
+    "status": "verified",
+    "matched_title": "A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models",
+    "matched_doi": "10.48550/arxiv.2107.03844",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via OpenAlex DOI"
+  },
+  {
+    "ref_id": "S2",
+    "title": "Network Intrusion Detection Using Transformer Models and Natural Language Processing for Enhanced Web Application Attack Detection",
+    "status": "verified",
+    "matched_title": "Network Intrusion Detection Using Transformer Models and Natural Language Processing for Enhanced Web Application Attack Detection",
+    "matched_doi": "10.23887/janapati.v13i3.82462",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via Crossref DOI"
+  },
+  {
+    "ref_id": "S8",
+    "title": "A Review of Transformer-Based Models for Natural Language Processing (NLP)",
+    "status": "verified",
+    "matched_title": "A Review of Transformer-Based Models for Natural Language Processing (NLP)",
+    "matched_doi": "10.22214/ijraset.2025.71832",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via Crossref DOI"
+  },
+  {
+    "ref_id": "S3",
+    "title": "Advancements in Natural language Processing: An In-depth Review of Language Transformer Models",
+    "status": "verified",
+    "matched_title": "Advancements in Natural language Processing: An In-depth Review of Language Transformer Models",
+    "matched_doi": "10.22214/ijraset.2024.63408",
+    "fields": {
+      "title": "ok",
+      "authors": "ok",
+      "year": "ok",
+      "doi": "ok"
+    },
+    "note": "matched via Crossref DOI"
+  }
+]
